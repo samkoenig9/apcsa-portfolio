@@ -3,9 +3,7 @@
 ### Links
 [Challenge 1 Repl](https://replit.com/@SamKoenig/challenge-1#Main.java)
 
-
-### Tech Talk Notes and Plans
-
+[Tech talk notes](https://github.com/samkoenig9/sam-tri3/wiki/Tech-Talks)
 
 ```markdown
 Syntax highlighted code block
