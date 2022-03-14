@@ -1,5 +1,9 @@
 ## Sam Koenig Tri 3
 
+### Links
+[Challenge 1 Repl](https://replit.com/@SamKoenig/challenge-1#Main.java)
+
+
 ### Tech Talk Notes and Plans
 
 
