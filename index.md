@@ -1,6 +1,6 @@
 ## Sam Koenig Tri 3
 
-### Links
+## Links
 [Tech talk notes](https://github.com/samkoenig9/sam-tri3/wiki/Tech-Talks)
 
 Review Tickets
