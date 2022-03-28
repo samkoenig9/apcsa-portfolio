@@ -6,5 +6,7 @@
 ## Links
 [Tech talk notes](https://github.com/samkoenig9/sam-tri3/wiki/Tech-Talks)
 
-Review Tickets
-* [Week 0](https://github.com/samkoenig9/sam-tri3/issues/1)
+[Review Tickets](https://github.com/samkoenig9/sam-tri3/issues)
+
+## Repl Embed
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@SamKoenig/samtri3-1?embed=true"></iframe>
