@@ -9,4 +9,4 @@
 [Review Tickets](https://github.com/samkoenig9/sam-tri3/issues)
 
 ## Repl Embed
-<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@SamKoenig/samtri3-1#src/Menu.java?embed=true"></iframe>
+<iframe frameborder="0" width="100%" height="500px" src="https://replit.com/@SamKoenig/samtri3-1?embed=true"></iframe>
