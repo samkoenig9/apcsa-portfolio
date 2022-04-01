@@ -3,7 +3,6 @@ package src.Week1;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
-import java.util.ArrayList;
 
 /**
  * Menu: custom implementation
