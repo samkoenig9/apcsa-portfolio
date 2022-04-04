@@ -1,4 +1,4 @@
-package src.Week0;
+package src.Week3;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
@@ -13,7 +13,7 @@ import java.util.ArrayList;
  */
 
 // The Menu Class has a HashMap of Menu Rows
-public class Menu0 {
+public class Menu3 {
     // Format
     // Key {0, 1, 2, ...} created based on order of input menu
     // Value {MenuRow0, MenuRow1, MenuRow2,...} each corresponds to key
@@ -25,7 +25,7 @@ public class Menu0 {
      *
      * @param  rows,  is the row data for menu.
      */
-    public Menu0(MenuRow[] rows) {
+    public Menu3(MenuRow[] rows) {
         int i = 0;
         for (MenuRow row : rows) {
             // Build HashMap for lookup convenience
@@ -105,12 +105,14 @@ class Driver {
         // Row initialize
         MenuRow[] rows = new MenuRow[]{
                 new MenuRow("Go Back", () -> main(null)),
-                new MenuRow("Swap", () -> IntByReference.main(null)),  // lambda style, () -> to point to Class.Method
-                new MenuRow("Matrix", () -> Matrix.main(null)),
+                new MenuRow("Sorts", () -> sorts.main(null))
+          
+          // lambda style, () -> to point to Class.Method
+             
         };
 
         // Menu construction
-        Menu0 menu = new Menu0(rows);
+        Menu3 menu = new Menu3(rows);
 
         // Run menu forever, exit condition contained in loop
         while (true) {

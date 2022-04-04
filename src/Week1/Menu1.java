@@ -1,5 +1,4 @@
 package src.Week1;
-
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
