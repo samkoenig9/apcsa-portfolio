@@ -111,7 +111,6 @@ class Driver {
           new MenuRow("Week 0", () -> Menu0.main(null)), 
           new MenuRow("Week 1", () -> Menu1.main(null)),
           new MenuRow("Week 2", () -> Menu2.main(null)),
-          new MenuRow("Week 3", () -> Menu3.main(null)),
           // lambda style, () -> to point to Class.Method
         };
 
