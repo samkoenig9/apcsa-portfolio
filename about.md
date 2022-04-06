@@ -1,6 +1,3 @@
-<p align="right"><a href="https://samkoenig9.github.io/sam-tri3/">Home</a></p>
-<p align="right"><a href="https://samkoenig9.github.io/sam-tri3/about">About Me</a></p>
-
 ## About Me - Projects from this year
 
 ### Tri 1: P2-Chickens | Fake News Checker
