@@ -14,11 +14,12 @@ author: Sam Koenig
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Code Snippets: "CodeSnippets"
+  About Me: "about"
+  Code Snippets: "codesnippets"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
-  Replit: "Replit"
+  Replit: "repl"
 
 # --- Logo --- #
 
