@@ -1,4 +1,4 @@
-# Sam Koenig Tri 3
+## Sam Koenig Tri 3
 
 Welcome!
 
