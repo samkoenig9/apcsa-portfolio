@@ -1,3 +1,8 @@
+---
+layout: page
+title: Repl
+---
+
 ## Repl Embed
 
 <a href="https://replit.com/@SamKoenig/sam-tri3">Link to full page</a>

@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 ## Sam Koenig Tri 3
 
 Welcome!

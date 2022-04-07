@@ -1,3 +1,8 @@
+---
+layout: page
+title: About Me
+---
+
 ## About Me - Projects from this year
 
 ### Tri 1: P2-Chickens | Fake News Checker
