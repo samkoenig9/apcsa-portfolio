@@ -1,11 +1,9 @@
 ---
 layout: home
-title: Home
+title: Sam Koenig - Tri 3
 ---
 
-## Sam Koenig Tri 3
-
-Welcome!
+## Welcome!
 
 ## Links
 

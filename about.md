@@ -3,7 +3,7 @@ layout: page
 title: About Me
 ---
 
-## About Me - Projects from this year
+## Projects from this year
 
 ### Tri 1: P2-Chickens | Fake News Checker
 For this project, we created a site where you could input a news source to check its reliability. The site also gave information about which news sources were reliable, and which may contain fake news. You were also able to learn about where different news sources were placed on the political spectrum, spanning from left, center, to right. We created this project with the intent to help educate students/people about how to identify fake news and help them only get true information.

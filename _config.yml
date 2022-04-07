@@ -15,7 +15,7 @@ author: Sam Koenig
 
 navbar-links:
   About Me: "about"
-  Code Snippets: "codesnippets"
+  Notes/Snippets: "codesnippets"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
