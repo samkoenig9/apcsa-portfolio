@@ -106,7 +106,7 @@ class Driver {
     public static void main(String[] args) {
         // Row initialize
         MenuRow[] rows = new MenuRow[]{
-          new MenuRow("Go Back", () -> main(null)),
+          new MenuRow("End Program", () -> main(null)),
           new MenuRow("Week 0", () -> Menu0.main(null)), 
           new MenuRow("Week 1", () -> Menu1.main(null)),
           new MenuRow("Week 2", () -> Menu2.main(null)),
