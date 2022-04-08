@@ -116,7 +116,7 @@ class Driver {
 
         // Run menu forever, exit condition contained in loop
         while (true) {
-            System.out.println("Select Something");
+            System.out.println("Type Number to Select");
             // print rows
             menu.print();
 
