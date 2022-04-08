@@ -1,21 +1,12 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 package src.Week1;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
-=======
-=======
->>>>>>> origin/main
 // package src.Week1;
 
 // import java.util.LinkedList;
 // import java.util.Queue;
 // import java.util.Stack;
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
->>>>>>> origin/main
 
 // public class Stack {
 //     private static void reverse(Queue<Integer> queue) {

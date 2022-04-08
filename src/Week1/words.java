@@ -2,7 +2,7 @@ package src.Week1;
 import java.util.Queue;
 import java.util.LinkedList;
 
-public class BBQ {
+public class words {
 
   public static void main(String[] args) {
     Queue<String> q = new LinkedList<String>();

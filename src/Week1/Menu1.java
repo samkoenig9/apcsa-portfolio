@@ -104,7 +104,7 @@ class Driver {
         // Row initialize
         MenuRow[] rows = new MenuRow[]{
                 new MenuRow("Go Back", () -> main(null)),
-                new MenuRow("Linked List Queue", () -> BBQ.main(null)),
+                new MenuRow("Linked List Queue", () -> words.main(null)),
                 new MenuRow("Merge Queue", () -> Merge.main(null))
           
           // lambda style, () -> to point to Class.Method
