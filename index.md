@@ -4,7 +4,6 @@ title: Sam Koenig - Tri 3
 ---
 
 ## Welcome!
-
-## Links
+Pages are located on the navbar
 
 [Review Tickets](https://github.com/samkoenig9/sam-tri3/issues)
